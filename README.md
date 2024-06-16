@@ -1,5 +1,7 @@
 Arquitetura de Microsserviços: Padrão Saga Orquestrado
 
+![Captura de tela 2024-06-16 190934](https://github.com/lucassilvap/SistemaDePedidosMicroservicoKafkaVersaoSemDocker/assets/92272692/a0e28113-e2cc-4a5e-8423-f53658666a4e)
+
 ![Arquitetura](Conte%C3%BAdos/Imagem%20Curso.png)
 
 ### Sumário:
